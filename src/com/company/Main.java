@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-    public static int num(String num) {
+    public static int num (String num) {
         int p = Integer.parseInt(num);
         return p;
     }
